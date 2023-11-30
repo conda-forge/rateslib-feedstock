@@ -1,5 +1,5 @@
 {% set name = "rateslib" %}
-{% set version = "0.6.0" %}
+{% set version = "0.7.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/rateslib-{{ version }}.tar.gz
-  sha256: d831e1c3bd8b38f391f44dc4932e2cded942bf2792baef42504c12b03724a8a6
+  sha256: f38b45dbbc8d128ffb0710ab254f33a7a3dbe5c24e911c97426cc922e02ce8b6
 
 build:
   noarch: python
@@ -24,7 +24,7 @@ requirements:
     - python >=3.9
     - numpy >=1.21.5
     - matplotlib-base >=3.5.1
-    - pandas >=1.4.1, <=2.0.3
+    - pandas >=1.4.1
 
 test:
   imports:
