@@ -1,5 +1,5 @@
 {% set name = "rateslib" %}
-{% set version = "1.0.0" %}
+{% set version = "1.1.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/rateslib-{{ version }}.tar.gz
-  sha256: 257bc273fc4d1ae54002b77f1eeefff058b4018035bae8d48d1625318beadb51
+  sha256: 1be827898e83ba5cad66d6fc088c41fb19e04dd98b4a58abbdb8bc78f228eb69
 
 build:
   noarch: python
