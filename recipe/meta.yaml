@@ -17,6 +17,7 @@ build:
 requirements:
   host:
     - python >=3.9
+    - rust >=1.75
     - maturin >=1.1
     - wheel
     - pip
