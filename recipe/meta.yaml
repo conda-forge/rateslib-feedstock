@@ -25,11 +25,11 @@ requirements:
     - {{ stdlib("c") }}
     - {{ compiler("rust") }}
   host:
-    - python >=3.9
+    - python
     - maturin >=1.1
     - pip
   run:
-    - python >=3.9
+    - python
     - numpy >=1.21.5
     - matplotlib-base >=3.5.1
     - pandas >=1.4.1
