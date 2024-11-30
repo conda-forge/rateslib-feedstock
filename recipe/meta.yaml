@@ -45,7 +45,7 @@ about:
   license: CC-BY-NC-ND-4.0
   license_family: CC
   license_file: LICENSE
-  doc_url: https://rateslib.readthedocs.io/en/1.6.x/
+  doc_url: https://rateslib.readthedocs.io/en/
   dev_url: https://github.com/attack68/rateslib
 
 extra:
