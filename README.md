@@ -11,7 +11,7 @@ Summary: A fixed income library for trading interest rates
 
 Development: https://github.com/attack68/rateslib
 
-Documentation: https://rateslib.readthedocs.io/
+Documentation: https://rateslib.readthedocs.io/en/
 
 Current build status
 ====================
