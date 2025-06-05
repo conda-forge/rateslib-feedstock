@@ -81,9 +81,9 @@ def verify_config(ns):
     else:
         raise ValueError("config " + ns.config + " is not valid")
     if (
-            ns.config.startswith("osx")
-            and platform.system() == "Darwin"
-            and not os.environ.get("OSX_SDK_DIR")
+        ns.config.startswith("osx")
+        and platform.system() == "Darwin"
+        and not os.environ.get("OSX_SDK_DIR")
     ):
         raise RuntimeError(
             "Need OSX_SDK_DIR env variable set. Run 'export OSX_SDK_DIR=$PWD/SDKs' "
