@@ -48,7 +48,7 @@ about:
   doc_url: https://rateslib.readthedocs.io/en/
   dev_url: https://github.com/attack68/rateslib
 
-extra:
+extra:  #
   recipe-maintainers:
     - attack68
     - NickAltmann
