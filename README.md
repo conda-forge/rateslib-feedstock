@@ -3,15 +3,15 @@ About rateslib-feedstock
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/rateslib-feedstock/blob/main/LICENSE.txt)
 
-Home: https://rateslib.com
+Home: [Rateslib.com](https://rateslib.com)
 
-Package license: CC-BY-NC-ND-4.0
+Package license: [LicenseRef-Rateslib-Dual](https://rateslib.com/py/en/latest/i_licence.html)
 
 Summary: A fixed income library for trading interest rates
 
-Development: https://github.com/attack68/rateslib
+Development: [Github](https://github.com/attack68/rateslib)
 
-Documentation: https://rateslib.readthedocs.io/en/
+Documentation: [Rateslib-Docs](https://rateslib.com/py/)
 
 Current build status
 ====================
