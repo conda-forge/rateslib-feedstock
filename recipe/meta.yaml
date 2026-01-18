@@ -43,8 +43,8 @@ about:
   summary: A fixed income library for trading interest rates
   home: https://rateslib.com
   license: LicenseRef-Rateslib-Dual
-  license_family: LicenseRef-Custom
-  license_file: PROPRIETARY
+  license_family: PROPRIETARY
+  license_file: LICENSE
   doc_url: https://rateslib.com/py/
   dev_url: https://github.com/attack68/rateslib
 
