@@ -2,11 +2,6 @@ BSD-3-Clause license
 Copyright (c) 2015-2022, conda-forge contributors
 All rights reserved.
 
-This LICENCE file is applied to the 'rateslib-feedstock' repository and not
-the 'rateslib' package itself. The 'rateslib' package is licensed under
-separate terms and is available at
-https://rateslib.com/py/en/latest/i_licence.html.
-
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
 
