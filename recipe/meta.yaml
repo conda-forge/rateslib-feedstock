@@ -1,5 +1,5 @@
 {% set name = "rateslib" %}
-{% set version = "2.6.0" %}
+{% set version = "2.7.0" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/rateslib-{{ version }}.tar.gz
-  sha256: c779ae348a96963b2a470e69c46c019c392190b34c90ba7cedd441d4a3d4f40a
+  sha256: 30f7d81a479af0da821d7ee7f1c4a4de4f7643a526ba0568357d8a564f2a2099
 
 build:
   script: {{ PYTHON }} -m pip install . -vv --no-build-isolation
