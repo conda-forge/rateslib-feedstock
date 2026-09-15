@@ -11,7 +11,7 @@ source:
 
 build:
   script: {{ PYTHON }} -m pip install . -vv --no-build-isolation
-  number: 0
+  number: 1
 
 requirements:
   build:
@@ -52,3 +52,4 @@ extra:  #
   recipe-maintainers:
     - attack68
     - NickAltmann
+    - pb01ka
