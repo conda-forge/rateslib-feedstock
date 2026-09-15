@@ -268,4 +268,5 @@ Feedstock Maintainers
 
 * [@NickAltmann](https://github.com/NickAltmann/)
 * [@attack68](https://github.com/attack68/)
+* [@pb01ka](https://github.com/pb01ka/)
 
