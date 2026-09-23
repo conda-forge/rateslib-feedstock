@@ -6,12 +6,12 @@ package:
   version: {{ version }}
 
 source:
-  url: https://pypi.org/packages/source/{{ name[0] }}/{{ name }}/rateslib-{{ version }}.tar.gz
+  url: https://files.pythonhosted.org/packages/source/{{ name[0] }}/{{ name }}/rateslib-{{ version }}.tar.gz
   sha256: b4007e57c29581aa6f7c235cda06754d0afedde4817336032cd88a5c1b7a72d8
 
 build:
   script: {{ PYTHON }} -m pip install . -vv --no-build-isolation
-  number: 1
+  number: 2
 
 requirements:
   build:
